@@ -1,0 +1,11 @@
+keras: Keras is an open-source software library that provides a Python interface for artificial neural networks.
+tensorflow: The TensorFlow platform helps you implement best practices for data automation, model tracking, performance monitoring, and model retraining.
+dlib: used to estimate the location of 68 coordinates (x, y) that map the facial points on a person's face. 
+imutils: A series of convenience functions to make basic image processing functions such as translation, rotation, resizing.
+sklearn: use for classification, clustering and regression. (Our project follows clustering)
+cv2: used for real time video capturing.
+matplotlib:create visualization, and animation
+numpy: NumPy can be used to perform a wide variety of mathematical operations on arrays
+scipy:used to solve scientific and mathematical problems.
+
+## We used CNN Algorithm ##
